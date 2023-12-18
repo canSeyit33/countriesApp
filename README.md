@@ -16,7 +16,5 @@ When we click on the cards, we go to the 2nd page and all country information is
   -Glide
 
 # Apperance
-![countries](https://github.com/canSeyit33/countriesApp/assets/135758037/758b20c1-a353-4619-a2cd-790f1117abaf)
-
-![Uploading SVID_20231218_171415_1.gif…]()
+![WhatsApp Image 2023-12-18 at 17 41 19](https://github.com/canSeyit33/countriesApp/assets/135758037/73e6e98b-2dc3-4bb0-9475-9b0e2405a0c7)   ![countries](https://github.com/canSeyit33/countriesApp/assets/135758037/758b20c1-a353-4619-a2cd-790f1117abaf)
 
