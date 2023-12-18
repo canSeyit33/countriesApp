@@ -18,3 +18,5 @@ When we click on the cards, we go to the 2nd page and all country information is
 # Apperance
 ![countries](https://github.com/canSeyit33/countriesApp/assets/135758037/758b20c1-a353-4619-a2cd-790f1117abaf)
 
+![Uploading SVID_20231218_171415_1.gif…]()
+
